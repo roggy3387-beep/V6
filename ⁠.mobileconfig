@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadDisplayName</key>
+	<string>Head V6 🍎</string>
+	<key>PayloadIdentifier</key>
+	<string>com.ff.aim.promax</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>0000-0000-00-000-000000</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>FF_Saver</key>
+	<string>https://ff.saver.server/config</string>
+	<key>FF_Thuong_Server</key>
+	<string>https://ff.thuong.server/config</string>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings</string>
+			<key>PayloadIdentifier</key>
+			<string>com.ff.dns.real</string>
+			<key>PayloadUUID</key>
+			<string>FFDNS-0001-0001-0001-000000000001</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadDisplayName</key>
+			<string>NHẸ TÂM x ZEN!ZY 🔥</string>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerAddresses</key>
+				<array>
+					<string>1.1.1.1</string>
+				</array>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
